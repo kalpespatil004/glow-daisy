@@ -9,6 +9,7 @@ export function Footer() {
       <div>
         <Link to="/" className="brand"><span className="brand__mark" aria-hidden="true">✿</span><span>{businessSettings.businessName}</span></Link>
         <p>{businessSettings.description}</p>
+        <small>© {new Date().getFullYear()} {businessSettings.businessName}. Handmade floral gifts and accessories.</small>
       </div>
       <div className="footer__links" aria-label="Footer navigation">
         <Link to="/products">Collection</Link><Link to="/about">About</Link><Link to="/contact">Contact</Link><Link to="/admin">Admin</Link>

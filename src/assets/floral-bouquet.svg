@@ -1,0 +1,45 @@
+<svg width="760" height="680" viewBox="0 0 760 680" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Soft handmade flower bouquet illustration</title>
+  <desc id="desc">A blush and lavender bouquet illustration used as a replaceable placeholder for Glow Daisy product photography.</desc>
+  <rect width="760" height="680" rx="56" fill="#FFF2F6"/>
+  <circle cx="612" cy="126" r="88" fill="#FFECEF"/>
+  <circle cx="154" cy="558" r="112" fill="#FFF7FA"/>
+  <path d="M372 242C330 344 300 444 274 576" stroke="#8CA079" stroke-width="9" stroke-linecap="round"/>
+  <path d="M412 240C414 344 420 452 454 592" stroke="#8CA079" stroke-width="9" stroke-linecap="round"/>
+  <path d="M340 274C282 366 244 458 208 586" stroke="#9DB38C" stroke-width="8" stroke-linecap="round"/>
+  <path d="M456 282C506 374 538 462 574 588" stroke="#9DB38C" stroke-width="8" stroke-linecap="round"/>
+  <path d="M314 392C260 366 236 316 246 270C304 278 344 312 360 366C350 386 336 395 314 392Z" fill="#D9E6C9"/>
+  <path d="M464 410C524 394 558 352 558 304C500 300 454 326 432 374C438 398 446 408 464 410Z" fill="#D9E6C9"/>
+  <g filter="url(#shadow)">
+    <circle cx="382" cy="224" r="76" fill="#E89AAA"/>
+    <circle cx="382" cy="146" r="44" fill="#F7C2CF"/>
+    <circle cx="456" cy="206" r="44" fill="#F7C2CF"/>
+    <circle cx="428" cy="292" r="44" fill="#F7C2CF"/>
+    <circle cx="336" cy="292" r="44" fill="#F7C2CF"/>
+    <circle cx="308" cy="206" r="44" fill="#F7C2CF"/>
+    <circle cx="382" cy="224" r="34" fill="#F7D6A6"/>
+  </g>
+  <g filter="url(#shadow)">
+    <circle cx="250" cy="284" r="58" fill="#C9B6E4"/>
+    <circle cx="250" cy="224" r="33" fill="#DDD0F2"/>
+    <circle cx="306" cy="270" r="33" fill="#DDD0F2"/>
+    <circle cx="284" cy="338" r="33" fill="#DDD0F2"/>
+    <circle cx="216" cy="338" r="33" fill="#DDD0F2"/>
+    <circle cx="194" cy="270" r="33" fill="#DDD0F2"/>
+    <circle cx="250" cy="284" r="25" fill="#F7D6A6"/>
+  </g>
+  <g filter="url(#shadow)">
+    <circle cx="526" cy="300" r="64" fill="#C95F78"/>
+    <circle cx="526" cy="232" r="36" fill="#F4A9BA"/>
+    <circle cx="590" cy="282" r="36" fill="#F4A9BA"/>
+    <circle cx="566" cy="358" r="36" fill="#F4A9BA"/>
+    <circle cx="486" cy="358" r="36" fill="#F4A9BA"/>
+    <circle cx="462" cy="282" r="36" fill="#F4A9BA"/>
+    <circle cx="526" cy="300" r="27" fill="#F7D6A6"/>
+  </g>
+  <path d="M286 596H496C476 644 306 644 286 596Z" fill="#E89AAA"/>
+  <path d="M262 574H520L494 610H288L262 574Z" fill="#FFFDFB" stroke="#E89AAA" stroke-width="4"/>
+  <path d="M618 410C632 394 649 394 662 410C649 426 632 426 618 410Z" fill="#F7D6A6" opacity=".9"/>
+  <path d="M112 226C124 212 140 212 152 226C140 240 124 240 112 226Z" fill="#E89AAA" opacity=".75"/>
+  <defs><filter id="shadow" x="120" y="78" width="560" height="378" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#C95F78" flood-opacity="0.16"/></filter></defs>
+</svg>

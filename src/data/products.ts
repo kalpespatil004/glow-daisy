@@ -1,3 +1,4 @@
+import productFlower from '../assets/product-flower.svg';
 import type { Category, Product, Review } from '../types';
 
 export const categories: Category[] = [
@@ -16,7 +17,7 @@ export const products: Product[] = [
     description: 'Mock single handmade pipe-cleaner flower stem for testing the product experience.',
     price: 0,
     category: 'single-flowers',
-    images: ['/icons.svg', '/favicon.svg'],
+    images: [productFlower],
     available: true,
     featured: true,
     stock: 12,
@@ -29,7 +30,7 @@ export const products: Product[] = [
     description: 'Mock floral clip placeholder for hair, bags or gift styling previews.',
     price: 0,
     category: 'flower-clips',
-    images: ['/icons.svg', '/favicon.svg'],
+    images: [productFlower],
     available: true,
     featured: true,
     stock: 8,
@@ -42,7 +43,7 @@ export const products: Product[] = [
     description: 'Mock bouquet listing for a future handmade custom flower bundle.',
     price: 0,
     category: 'bouquets',
-    images: ['/icons.svg', '/favicon.svg'],
+    images: [productFlower],
     available: true,
     featured: true,
     stock: 4,
@@ -55,7 +56,7 @@ export const products: Product[] = [
     description: 'Mock arrangement listing for display-ready handmade flowers.',
     price: 0,
     category: 'arrangements',
-    images: ['/icons.svg', '/favicon.svg'],
+    images: [productFlower],
     available: true,
     featured: false,
     stock: 3,
@@ -68,7 +69,7 @@ export const products: Product[] = [
     description: 'Mock custom order option for discussing colors, quantity and gifting details.',
     price: null,
     category: 'custom-orders',
-    images: ['/icons.svg', '/favicon.svg'],
+    images: [productFlower],
     available: true,
     featured: false,
     createdAt: '2026-08-15T00:00:00.000Z',
