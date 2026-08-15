@@ -1,0 +1,1 @@
+export default function AdminPlaceholder() { return <main className="page-shell"><h1>Admin foundation</h1><p>Admin dashboard, products, orders, customers and settings are planned for a later phase.</p></main>; }
