@@ -15,6 +15,7 @@ export interface Product {
   images: string[];
   available: boolean;
   featured: boolean;
+  stock?: number;
   createdAt: string;
   updatedAt: string;
 }

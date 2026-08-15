@@ -19,7 +19,7 @@ export default function Home() {
           <h1>Elegant handmade flowers that stay beautiful.</h1>
           <p className="hero__copy">A premium storefront foundation for pipe-cleaner flowers, keepsake bouquets, accessories and made-to-order floral gifts.</p>
           <div className="hero__actions">
-            <ButtonLink to="/collection">Explore collection <ArrowRight size={17} /></ButtonLink>
+            <ButtonLink to="/products">Explore collection <ArrowRight size={17} /></ButtonLink>
             <ExternalButtonLink href={createWhatsAppOrderUrl({ note: 'I want to discuss a custom Glow Daisy order.' })} variant="secondary">Custom order</ExternalButtonLink>
           </div>
         </motion.div>

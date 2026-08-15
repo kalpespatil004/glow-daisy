@@ -11,7 +11,7 @@ export function Footer() {
         <p>{businessSettings.description}</p>
       </div>
       <div className="footer__links" aria-label="Footer navigation">
-        <Link to="/collection">Collection</Link><Link to="/about">About</Link><Link to="/contact">Contact</Link><Link to="/admin">Admin</Link>
+        <Link to="/products">Collection</Link><Link to="/about">About</Link><Link to="/contact">Contact</Link><Link to="/admin">Admin</Link>
       </div>
       <div className="footer__socials">
         <a href={businessSettings.instagramUrl} aria-label="Instagram"><Flower2 size={18} /></a>
